@@ -1,3 +1,3 @@
 # leetbook
 
-Learning and sharing.
+Learning and sharing
