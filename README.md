@@ -1,3 +1,3 @@
-# leetbook
+# Kathe's Leetbook
 
-Learning and sharing
+Learning and sharing. (*^▽^*) 
