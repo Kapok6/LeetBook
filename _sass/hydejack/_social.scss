@@ -1,0 +1,11 @@
+.sidebar-social {
+  > ul {
+    > li {
+      > a {
+        &::after {
+          display: none;
+        }
+      }
+    }
+  }
+}

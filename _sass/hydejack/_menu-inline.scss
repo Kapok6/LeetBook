@@ -1,0 +1,44 @@
+.fixed-top {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 1;
+}
+
+.navbar > .content {
+  padding-top: 0;
+  padding-bottom: 0;
+  min-height: 0;
+  height: 0;
+}
+
+.menu {
+  display: inline-block;
+  padding: 1.75rem 1.5rem;
+  border-bottom: none;
+  margin-left: -1.5rem;
+  color: $gray!important;
+
+  &::after {
+    content: "\2630";
+  }
+
+  @media screen and (min-width: $break-point-2) {
+    padding: 1.25rem 1.5rem;
+    position: absolute;
+    left: -9999px;
+
+    &:focus {
+      position: static;
+    }
+  }
+}
+
+.animation-main {
+  pointer-events: none;
+}
+
+.loading {
+  display: none;
+}

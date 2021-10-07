@@ -1,0 +1,16 @@
+// Posts and pages
+//
+// Each post is wrapped in `.post` and is used on default and post layouts. Each
+// page is wrapped in `.page` and is only used on the page layout.
+
+hr.dingbat {
+  border: 0;
+}
+
+hr.dingbat::after {
+  content: "\2756";
+  display: block;
+  text-align: center;
+  font-size: 1.5rem;
+  color: #ddd;
+}

@@ -1,0 +1,44 @@
+article,aside,dialog,figcaption,figure,footer,header,hgroup,main,nav,section{display:block}
+mark{background:#FF0;color:#000}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-size: $root-font-size;
+  line-height: $root-line-height;
+}
+
+body {
+  color: $body-color;
+  background-color: $body-bg;
+  overflow-y: scroll;
+}
+
+a {
+  text-decoration: none;
+}
+
+.lead {
+  margin-left: -1rem;
+  margin-right: -1rem;
+}
+
+img, .img {
+  display: block;
+  max-width: 100%;
+  margin-bottom: 1rem;
+  border: none;
+
+  &.lead {
+    max-width: calc(100% + 2rem);
+    width: calc(100% + 2rem);
+  }
+}

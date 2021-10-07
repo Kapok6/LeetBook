@@ -1,0 +1,5 @@
+@media screen {
+  header, body::before {
+    backface-visibility: hidden;
+  }
+}
