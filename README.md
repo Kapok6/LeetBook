@@ -1,4 +1,4 @@
-# huijie6's blog 🖊️
+# Kathie's blog 🖊️
 
 这是 [@huijie6](https://huijie6.github.io/blog) 的个人技术博客。
 
