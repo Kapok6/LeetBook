@@ -1,4 +1,4 @@
-# Kathie's blog 🖊️
+# Huijie's blog 🖊️
 
 这是 [@huijie6](https://huijie6.github.io/LeetBook) 的个人技术博客。
 
