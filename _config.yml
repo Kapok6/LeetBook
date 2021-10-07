@@ -4,7 +4,7 @@
 
 title:               Kathie's Blog
 
-baseurl:             /blog
+baseurl:             /LeetBook
 
 description:         >
   <p>有人见尘埃，</p>
@@ -16,7 +16,7 @@ author:
   email:             chaser_j@163.com
 
 # Fallback image and color
-image:               /Leetbook/assets/img/
+image:               /LeetBook/assets/img/
 color:               '#4f86aa'
 
 # The font used for headings. Expects a string that is a valid CSS font-family value.
