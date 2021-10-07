@@ -16,7 +16,7 @@ author:
   email:             chaser_j@163.com
 
 # Fallback image and color
-image:               /blog/assets/img/
+image:               /Leetbook/assets/img/
 color:               '#4f86aa'
 
 # The font used for headings. Expects a string that is a valid CSS font-family value.
